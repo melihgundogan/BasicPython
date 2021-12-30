@@ -1,0 +1,4 @@
+Melih Gündoğan:75,85,100
+Ahmed Gündoğan:85,95,55
+Ali Turan:15,25,75
+Feyza Gündoğan:90,77,65
